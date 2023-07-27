@@ -1,0 +1,10 @@
+body {
+    background: #f5d9d5;
+    font-family: "Nunito", sans-serif;
+
+}
+
+#emailPopup .modal-dialog {
+    height: 800px;
+    width: 1600px;
+}
